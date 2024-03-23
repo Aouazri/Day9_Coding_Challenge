@@ -1,2 +1,2 @@
 # Day9_Coding_Challenge
-The Secret Auction Program 
+This Python project is a blind auction program. It allows users to participate anonymously by inputting their name and bid for an item. Bids are stored in a dictionary, with each bidder's name as the key and their bid as the value. The program continues to prompt for new bids until there are no more participants. After bidding concludes, it identifies the highest bid and announces the winner
